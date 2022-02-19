@@ -1,0 +1,12 @@
+.App {
+  padding: 35px 10px 11px 9px;
+  height: 100vh;
+  background: #0d0d0d;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.5px;
+  color: rgb(255, 255, 255, 0.8);
+}

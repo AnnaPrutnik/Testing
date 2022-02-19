@@ -1,0 +1,25 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.msg {
+  position: relative;
+  padding: 12px 55px 21px 12px;
+  border-radius: 15px;
+  background: rgb(255, 255, 255, 0.1);
+  margin-bottom: 17px;
+  cursor: pointer;
+}
+
+.time {
+  position: absolute;
+  bottom: 3px;
+  right: 12px;
+  font-size: 10px;
+  line-height: 12px;
+  text-align: right;
+  letter-spacing: 0.5px;
+  align-items: flex-end;
+}
